@@ -32,7 +32,7 @@
 ## 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
 </p>
 
 ---
